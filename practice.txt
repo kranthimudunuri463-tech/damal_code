@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+welcome to the world of vlsi - all domains
+=======
 welcome to the world of vlsi - dv  
+>>>>>>> origin/main
